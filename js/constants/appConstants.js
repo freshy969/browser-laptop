@@ -200,6 +200,8 @@ const appConstants = {
   APP_ON_REFERRAL_ACTIVITY: _,
   APP_ON_LEDGER_MEDIA_PUBLISHER: _,
   APP_ADD_PUBLISHER_TO_LEDGER: _
+  APP_ON_USERMODEL_DEMO_VALUE: _,
+  APP_TEXT_SCRAPER_DATA_AVAILABLE: _
 }
 
 module.exports = mapValuesByKeys(appConstants)

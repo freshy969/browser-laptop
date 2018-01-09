@@ -1159,6 +1159,8 @@ module.exports.defaultAppState = () => {
         publishers: {}
       },
       promotion: {}
+    },
+    usermodel: {
     }
   }
 }
